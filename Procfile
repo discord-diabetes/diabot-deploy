@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar diabot.jar
+web: java $JAVA_OPTS -jar application.jar
